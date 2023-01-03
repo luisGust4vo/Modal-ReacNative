@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { View, Text, StyleSheet, Button, Modal } from 'react-native';e
+import { View, Text, StyleSheet, Button, Modal } from 'react-native';
 
 import Detalhes from './src/Detalhes';
 
